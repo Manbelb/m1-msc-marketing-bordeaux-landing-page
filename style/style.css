@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Overpass', sans-serif;
+  background-color: rgb(200, 200, 200);
+}
+
+h1, h2, h3 {
+  font-family: 'Chivo', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 80%;
+  margin: 24px auto;
+}
